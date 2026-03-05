@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hillary%20Chukwuma&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20Full-Stack%20Engineer&descAlignY=58&descSize=18&descColor=a8d8ea&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hillary%20Chukwuma&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Backend%20Specialist&descAlignY=58&descSize=18&descColor=a8d8ea&animation=fadeIn" width="100%" />
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+Backend+Systems+%F0%9F%9A%80;ALX+Backend+Engineering+Fellow+%F0%9F%8E%93;Turning+Ideas+into+Working+Products+%F0%9F%92%A1;Crafting+Human-Centered+Solutions+%F0%9F%8C%8D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer+%F0%9F%9A%80;Building+End-to-End+Web+Applications+%F0%9F%94%A7;From+Database+Schema+to+Pixel-Perfect+UI+%F0%9F%8E%A8;ALX+Backend+Engineering+Fellow+%F0%9F%8E%93;Crafting+Human-Centered+Solutions+%F0%9F%8C%8D)](https://git.io/typing-svg)
 
 <br/>
 
@@ -21,9 +21,9 @@
 
 ```python
 hillary = {
-    "role"      : "Backend Developer & Full-Stack Engineer (in progress)",
+    "role"      : "Full-Stack Engineer",
     "program"   : "ALX Backend Engineering",
-    "focus"     : ["APIs", "Databases", "Server Architecture", "Full-Stack Web Apps"],
+    "focus"     : ["Full-Stack Web Apps", "REST APIs", "Databases", "System Design"],
     "building"  : "University Student Resource Platform",
     "passion"   : "Technology as a tool for empowerment",
     "philosophy": "Curiosity fuels my code — I build to learn, and learn to build.",
@@ -31,9 +31,9 @@ hillary = {
 }
 ```
 
-I'm a **backend-focused engineer** who believes the best software is invisible — it just works, reliably and intuitively. Currently enrolled in the **ALX Backend Engineering Program**, I'm building a strong foundation in system design, server-side logic, and modern web technologies.
+I'm a **full-stack engineer** who believes the best software is invisible — it just works, reliably and intuitively. Currently enrolled in the **ALX Backend Engineering Program**, I design and build complete web applications — owning the entire stack from database architecture to responsive, user-facing interfaces.
 
-My goal: become a **Full-Stack Engineer** who can own a feature end-to-end — from database schema to pixel-perfect UI.
+I ship features end-to-end. From schema design to API logic to the UI — I take ownership of the full picture.
 
 ---
 
@@ -51,7 +51,7 @@ My goal: become a **Full-Stack Engineer** who can own a feature end-to-end — f
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-**Currently Learning**
+**Expanding Stack**
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -109,9 +109,9 @@ My goal: become a **Full-Stack Engineer** who can own a feature end-to-end — f
 
 - 🔧 Shipping the **Student Resource Platform** MVP
 - 📖 Deepening expertise in **system design** and **RESTful APIs**
-- 🌐 Mastering the full stack — from **SQL schemas to React UIs**
+- ⚡ Scaling up with **cloud deployment** (Docker, CI/CD)
 - 🤝 Contributing to **open-source** projects
-- 💼 Securing a **backend/full-stack internship or junior role**
+- 💼 Securing a **full-stack engineer internship or junior role**
 
 ---
 
