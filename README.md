@@ -1,6 +1,6 @@
 <!-- Header / Title -->
 <h2 align="center">👋 Hi, I'm Hillary Chukwuma</h2>
-<p align="center">Backend Developer • Future Full-Stack Engineer • Creative Problem Solver</p>
+<p align="center">Backend Developer • Full-Stack Engineer • Creative Problem Solver</p>
 
 ---
 
