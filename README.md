@@ -1,16 +1,14 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hillary%20Chukwuma&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Backend%20Specialist&descAlignY=58&descSize=18&descColor=a8d8ea&animation=fadeIn" width="100%" />
 
-<!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer+%F0%9F%9A%80;Building+End-to-End+Web+Applications+%F0%9F%94%A7;From+Database+Schema+to+Pixel-Perfect+UI+%F0%9F%8E%A8;ALX+Backend+Engineering+Fellow+%F0%9F%8E%93;Crafting+Human-Centered+Solutions+%F0%9F%8C%8D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer+%F0%9F%9A%80;Django+%7C+NestJS+%7C+React+%7C+PostgreSQL;Building+Real-Time+%26+AI-Powered+Web+Apps;ALX+Backend+Engineering+Fellow+%F0%9F%8E%93;Open+to+Remote+Internships+%26+Junior+Roles)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- Profile views + followers badges -->
 ![Profile Views](https://komarev.com/ghpvc/?username=Hillary3000-web&color=38bdf8&style=flat-square&label=Profile+Views)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chukwuma-hillary-318b09337)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-38BDF8?style=flat-square&logo=vercel&logoColor=white)](https://my-portfolio-profile-tpnb.vercel.app/)
 [![ALX](https://img.shields.io/badge/ALX-Backend_Engineering-FF6B35?style=flat-square)](https://www.alxafrica.com/)
 
 </div>
@@ -21,19 +19,20 @@
 
 ```python
 hillary = {
-    "role"      : "Full-Stack Engineer",
-    "program"   : "ALX Backend Engineering",
-    "focus"     : ["Full-Stack Web Apps", "REST APIs", "Databases", "System Design"],
-    "building"  : "University Student Resource Platform",
-    "passion"   : "Technology as a tool for empowerment",
-    "philosophy": "Curiosity fuels my code — I build to learn, and learn to build.",
-    "open_to"   : ["Internships", "Junior Dev Roles", "Open Source Collaboration"]
+    "role"        : "Full-Stack Engineer (Backend-Focused)",
+    "location"    : "Port Harcourt, Nigeria 🇳🇬",
+    "program"     : "ALX Backend Engineering",
+    "stack"       : ["Django", "NestJS", "React", "PostgreSQL", "Redis", "Docker"],
+    "currently"   : ["Nexusbotix backend (NestJS + Firestore)", "MediRemit — cross-border healthcare payments"],
+    "passion"     : "Building systems that work reliably under pressure",
+    "philosophy"  : "Curiosity fuels my code — I build to learn, and learn to build.",
+    "open_to"     : ["Remote Internships", "Junior Dev Roles", "Open Source Collaboration"]
 }
 ```
 
-I'm a **full-stack engineer** who believes the best software is invisible — it just works, reliably and intuitively. Currently enrolled in the **ALX Backend Engineering Program**, I design and build complete web applications — owning the entire stack from database architecture to responsive, user-facing interfaces.
+I'm a **full-stack engineer** with a backend focus — I design and ship complete web applications end-to-end, from database schema to production UI. Currently enrolled in the **ALX Backend Engineering Program** and contributing to a real-world NestJS backend in a remote team at **Nexusbotix**.
 
-I ship features end-to-end. From schema design to API logic to the UI — I take ownership of the full picture.
+I build with real-time systems, AI integrations, and async architectures — not just CRUD apps.
 
 ---
 
@@ -41,51 +40,80 @@ I ship features end-to-end. From schema design to API logic to the UI — I take
 
 <div align="center">
 
-**Languages & Core Tools**
+**Core Stack**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-**Expanding Stack**
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Backend & Infrastructure**
+
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_APIs-FF6B35?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
 </div>
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 <table>
   <tr>
     <td width="60%">
-      <h3>🎓 University Student Resource Platform</h3>
+      <h3>⚡ FlowState — AI Productivity Platform</h3>
       <p>
-        A collaborative web platform built to solve a real problem: students struggling to find and share academic materials efficiently.
+        A real-time collaborative productivity app powered by AI. Built with Django Channels for WebSocket connections, Celery + Redis for async task queues, and Groq/Llama 3.3 70B for AI features.
       </p>
       <ul>
-        <li>📚 Discover & share course notes, past questions, and resources</li>
-        <li>🔍 Fast, searchable content organized by course and department</li>
-        <li>🤝 Student community layer for peer learning and collaboration</li>
-        <li>♿ Built with accessibility and simplicity at the core</li>
+        <li>🔁 Real-time collaboration via Django Channels (WebSockets)</li>
+        <li>🤖 AI-powered features using Groq + Llama 3.3 70B</li>
+        <li>⚙️ Async task processing with Celery + Redis</li>
+        <li>🗃️ PostgreSQL + Supabase backend, React 19 + Zustand frontend</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/Status-In%20Development-38BDF8?style=flat-square" />
-        <img src="https://img.shields.io/badge/Stack-Python%20%7C%20Flask%20%7C%20PostgreSQL-3776AB?style=flat-square" />
+        <img src="https://img.shields.io/badge/Status-Live-22c55e?style=flat-square" />
+        <img src="https://img.shields.io/badge/Stack-Django%20%7C%20React%20%7C%20Redis%20%7C%20Groq-3776AB?style=flat-square" />
       </p>
     </td>
     <td width="40%" align="center">
-      <img src="https://img.shields.io/badge/Impact-Students%20First-FF6B35?style=for-the-badge" /><br/><br/>
-      <em>"Making academic knowledge accessible to every student, regardless of their network."</em>
+      <img src="https://img.shields.io/badge/Deployed-Render%20%2B%20Vercel-38BDF8?style=for-the-badge" /><br/><br/>
+      <em>"Ship features that work in production, not just in dev."</em>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="60%">
+      <h3>🧩 Sudoku Solver — AI Vision + Web</h3>
+      <p>
+        Upload a photo of any sudoku puzzle and get it solved instantly. Uses OpenCV + Tesseract OCR to extract the grid from images, then solves it with a backtracking algorithm.
+      </p>
+      <ul>
+        <li>📸 Image-to-grid extraction via OpenCV + Tesseract OCR</li>
+        <li>🧠 Backtracking algorithm for puzzle solving</li>
+        <li>🐍 Django 5.2 backend, React 18 frontend</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Stack-Django%20%7C%20React%20%7C%20OpenCV-092E20?style=flat-square" />
+      </p>
+    </td>
+    <td width="40%" align="center">
+      <em>"Combining computer vision and web development in one clean project."</em>
     </td>
   </tr>
 </table>
@@ -107,11 +135,11 @@ I ship features end-to-end. From schema design to API logic to the UI — I take
 
 ## 🎯 What I'm Working Toward
 
-- 🔧 Shipping the **Student Resource Platform** MVP
-- 📖 Deepening expertise in **system design** and **RESTful APIs**
-- ⚡ Scaling up with **cloud deployment** (Docker, CI/CD)
-- 🤝 Contributing to **open-source** projects
-- 💼 Securing a **full-stack engineer internship or junior role**
+- 🏥 Shipping **MediRemit** — a cross-border healthcare payment platform (Interswitch Buildathon)
+- 🔧 Contributing to **Nexusbotix** production backend (NestJS + Firestore)
+- ☁️ Going deeper on **Docker, CI/CD, and cloud deployment**
+- 🤝 Making my first meaningful **open-source contributions**
+- 💼 Landing a **remote full-stack or backend junior role**
 
 ---
 
@@ -120,6 +148,7 @@ I ship features end-to-end. From schema design to API logic to the UI — I take
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hillary%20Chukwuma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chukwuma-hillary-318b09337)
+[![Portfolio](https://img.shields.io/badge/Portfolio-my--portfolio--profile-38BDF8?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-profile-tpnb.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Hillary3000--web-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hillary3000-web)
 
 </div>
