@@ -2,14 +2,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hillary%20Chukwuma&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Backend%20Specialist&descAlignY=58&descSize=18&descColor=a8d8ea&animation=fadeIn" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer+%F0%9F%9A%80;Django+%7C+NestJS+%7C+React+%7C+PostgreSQL;Building+Real-Time+%26+AI-Powered+Web+Apps;ALX+Backend+Engineering+Fellow+%F0%9F%8E%93;Open+to+Remote+Internships+%26+Junior+Roles)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer+%F0%9F%9A%80;Django+%7C+NestJS+%7C+React+%7C+PostgreSQL;Building+Real-Time+%26+AI-Powered+Web+Apps;ALX+Backend+Engineering+Graduate+%F0%9F%8E%93;Open+to+Remote+Junior+%26+Mid-Level+Roles)](https://git.io/typing-svg)
 
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Hillary3000-web&color=38bdf8&style=flat-square&label=Profile+Views)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chukwuma-hillary-318b09337)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-38BDF8?style=flat-square&logo=vercel&logoColor=white)](https://my-portfolio-profile-tpnb.vercel.app/)
-[![ALX](https://img.shields.io/badge/ALX-Backend_Engineering-FF6B35?style=flat-square)](https://www.alxafrica.com/)
+[![ALX](https://img.shields.io/badge/ALX-Backend_Engineering_Graduate-FF6B35?style=flat-square)](https://www.alxafrica.com/)
 
 </div>
 
@@ -21,16 +21,16 @@
 hillary = {
     "role"        : "Full-Stack Engineer (Backend-Focused)",
     "location"    : "Port Harcourt, Nigeria 🇳🇬",
-    "program"     : "ALX Backend Engineering",
+    "education"   : "B.Tech Computer Science — FUTO (300L)",
     "stack"       : ["Django", "NestJS", "React", "PostgreSQL", "Redis", "Docker"],
-    "currently"   : ["Nexusbotix backend (NestJS + Firestore)", "MediRemit — cross-border healthcare payments"],
+    "currently"   : ["Contracting at Nexusbotix (NestJS + Firestore)", "Q2 lock-in — LeetCode + building in public"],
     "passion"     : "Building systems that work reliably under pressure",
     "philosophy"  : "Curiosity fuels my code — I build to learn, and learn to build.",
-    "open_to"     : ["Remote Internships", "Junior Dev Roles", "Open Source Collaboration"]
+    "open_to"     : ["Remote Junior/Mid Roles", "Contract Work", "Open Source Collaboration"]
 }
 ```
 
-I'm a **full-stack engineer** with a backend focus — I design and ship complete web applications end-to-end, from database schema to production UI. Currently enrolled in the **ALX Backend Engineering Program** and contributing to a real-world NestJS backend in a remote team at **Nexusbotix**.
+I'm a **full-stack engineer** with a backend focus — I design and ship complete web applications end-to-end, from database schema to production UI. Graduate of the **ALX Backend Engineering Program** and currently contracting at **Nexusbotix**, where I built the Channels module from scratch on a production NestJS + Firestore backend.
 
 I build with real-time systems, AI integrations, and async architectures — not just CRUD apps.
 
@@ -99,6 +99,30 @@ I build with real-time systems, AI integrations, and async architectures — not
 <table>
   <tr>
     <td width="60%">
+      <h3>🏥 MediRemit — Cross-Border Healthcare Payments</h3>
+      <p>
+        Built solo in 72 hours for the Enyata × Interswitch Buildathon. A platform enabling cross-border healthcare payments using the Interswitch API.
+      </p>
+      <ul>
+        <li>💳 Interswitch API integration for payment processing</li>
+        <li>🌍 Cross-border transaction support</li>
+        <li>⚡ Node.js + Express backend, Supabase database</li>
+        <li>🚀 Deployed on Render + Vercel — built and shipped solo</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Status-Shipped-22c55e?style=flat-square" />
+        <img src="https://img.shields.io/badge/Stack-Node.js%20%7C%20Supabase%20%7C%20Interswitch-339933?style=flat-square" />
+      </p>
+    </td>
+    <td width="40%" align="center">
+      <em>"72 hours. Solo build. Full deployment. That's the standard."</em>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="60%">
       <h3>🧩 Sudoku Solver — AI Vision + Web</h3>
       <p>
         Upload a photo of any sudoku puzzle and get it solved instantly. Uses OpenCV + Tesseract OCR to extract the grid from images, then solves it with a backtracking algorithm.
@@ -106,7 +130,7 @@ I build with real-time systems, AI integrations, and async architectures — not
       <ul>
         <li>📸 Image-to-grid extraction via OpenCV + Tesseract OCR</li>
         <li>🧠 Backtracking algorithm for puzzle solving</li>
-        <li>🐍 Django 5.2 backend, React 18 frontend</li>
+        <li>🐍 Django 5.x backend, React 18 frontend</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/Stack-Django%20%7C%20React%20%7C%20OpenCV-092E20?style=flat-square" />
@@ -135,11 +159,11 @@ I build with real-time systems, AI integrations, and async architectures — not
 
 ## 🎯 What I'm Working Toward
 
-- 🏥 Shipping **MediRemit** — a cross-border healthcare payment platform (Interswitch Buildathon)
-- 🔧 Contributing to **Nexusbotix** production backend (NestJS + Firestore)
+- 📈 Q2 lock-in (Apr–Jun 2026) — daily LeetCode, Python deep dives, building in public
 - ☁️ Going deeper on **Docker, CI/CD, and cloud deployment**
-- 🤝 Making my first meaningful **open-source contributions**
-- 💼 Landing a **remote full-stack or backend junior role**
+- 🤝 Making meaningful **open-source contributions**
+- 💼 Landing a **remote backend or full-stack role**
+- 🎓 Targeting a **UK MSc** via Chevening/Commonwealth scholarship
 
 ---
 
