@@ -21,22 +21,22 @@
 hillary = {
     "role"        : "Full-Stack Engineer (Backend-Focused) → Cloud Engineer",
     "location"    : "Port Harcourt, Nigeria 🇳🇬",
-    "education"   : "B.Tech Computer Science — FUTO (300L)",
+    "education"   : "B.Tech Computer Science at FUTO (300L)",
     "stack"       : ["Django", "NestJS", "React", "PostgreSQL", "Redis", "Docker", "AWS"],
     "currently"   : [
-        "October lock-in — SAA-C03 prep + AWS portfolio projects",
+        "October lock-in: SAA-C03 prep + AWS portfolio projects",
         "Contracting at Nexusbotix (NestJS + Firestore)",
         "Building in public on Contra"
     ],
     "passion"     : "Building systems that work reliably under pressure",
-    "philosophy"  : "Curiosity fuels my code — I build to learn, and learn to build.",
+    "philosophy"  : "Curiosity fuels my code. I build to learn, and learn to build.",
     "open_to"     : ["Remote Backend/Cloud Roles", "Contract Work", "Open Source Collaboration"]
 }
 ```
 
-I'm a **full-stack engineer** with a backend focus — I design and ship complete web applications end-to-end, from database schema to production UI. Graduate of the **ALX Backend Engineering Program** and currently contracting at **Nexusbotix**, where I built the Channels module from scratch on a production NestJS + Firestore backend.
+I'm a **full-stack engineer** with a backend focus. I design and ship complete web applications end-to-end, from database schema to production UI. Graduate of the **ALX Backend Engineering Program** and currently contracting at **Nexusbotix**, where I built the Channels module from scratch on a production NestJS + Firestore backend.
 
-I build with real-time systems, AI integrations, and async architectures — and I'm now going deep on **AWS and cloud infrastructure** as my next frontier.
+I build with real-time systems, AI integrations, and async architectures. Right now I'm going deep on **AWS and cloud infrastructure** as my next frontier.
 
 ---
 
@@ -62,7 +62,7 @@ I build with real-time systems, AI integrations, and async architectures — and
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_APIs-FF6B35?style=for-the-badge&logo=fastapi&logoColor=white)
 
-**Cloud — AWS (In Progress ☁️)**
+**Cloud: AWS (In Progress ☁️)**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
@@ -86,7 +86,7 @@ I build with real-time systems, AI integrations, and async architectures — and
 <table>
   <tr>
     <td width="60%">
-      <h3>⚡ FlowState — AI Productivity Platform</h3>
+      <h3>⚡ FlowState: AI Productivity Platform</h3>
       <p>
         A real-time collaborative productivity app powered by AI. Built with Django Channels for WebSocket connections, Celery + Redis for async task queues, and Groq/Llama 3.3 70B for AI features.
       </p>
@@ -111,12 +111,12 @@ I build with real-time systems, AI integrations, and async architectures — and
 <table>
   <tr>
     <td width="60%">
-      <h3>☁️ Serverless URL Shortener — AWS Portfolio Project</h3>
+      <h3>☁️ Serverless URL Shortener (AWS Portfolio Project)</h3>
       <p>
-        A fully serverless URL shortener built on AWS to demonstrate cloud architecture skills. No servers to manage — just clean, scalable infrastructure.
+        A fully serverless URL shortener built on AWS to demonstrate cloud architecture skills. No servers to manage, just clean scalable infrastructure.
       </p>
       <ul>
-        <li>⚡ AWS Lambda for compute — zero server management</li>
+        <li>⚡ AWS Lambda for compute (zero server management)</li>
         <li>🌐 API Gateway for HTTP routing and request handling</li>
         <li>🗃️ DynamoDB for fast, scalable key-value storage</li>
         <li>🔗 Custom short links with redirect logic</li>
@@ -136,7 +136,7 @@ I build with real-time systems, AI integrations, and async architectures — and
 <table>
   <tr>
     <td width="60%">
-      <h3>🏥 MediRemit — Cross-Border Healthcare Payments</h3>
+      <h3>🏥 MediRemit: Cross-Border Healthcare Payments</h3>
       <p>
         Built solo in 72 hours for the Enyata × Interswitch Buildathon. A platform enabling cross-border healthcare payments using the Interswitch API.
       </p>
@@ -144,7 +144,7 @@ I build with real-time systems, AI integrations, and async architectures — and
         <li>💳 Interswitch API integration for payment processing</li>
         <li>🌍 Cross-border transaction support</li>
         <li>⚡ Node.js + Express backend, Supabase database</li>
-        <li>🚀 Deployed on Render + Vercel — built and shipped solo</li>
+        <li>🚀 Deployed on Render + Vercel, built and shipped solo</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/Status-Shipped-22c55e?style=flat-square" />
@@ -160,7 +160,7 @@ I build with real-time systems, AI integrations, and async architectures — and
 <table>
   <tr>
     <td width="60%">
-      <h3>🧩 Sudoku Solver — AI Vision + Web</h3>
+      <h3>🧩 Sudoku Solver: AI Vision + Web</h3>
       <p>
         Upload a photo of any sudoku puzzle and get it solved instantly. Uses OpenCV + Tesseract OCR to extract the grid from images, then solves it with a backtracking algorithm.
       </p>
@@ -196,11 +196,11 @@ I build with real-time systems, AI integrations, and async architectures — and
 
 ## 🎯 What I'm Working Toward
 
-- ☁️ **October lock-in** — SAA-C03 (AWS Solutions Architect Associate) certification + AWS portfolio projects
+- ☁️ **October lock-in:** SAA-C03 (AWS Solutions Architect Associate) cert + AWS portfolio projects
 - 📈 Daily LeetCode + consistent open-source contributions
 - 🌍 Building toward a **remote cloud engineering role** post-graduation
 - 🇲🇾 Long-term: relocate to **Malaysia (Penang / KL)** via the DE Rantau digital nomad visa
-- 🎓 **B.Tech Computer Science** — FUTO, graduating ~January 2028
+- 🎓 Studying **B.Tech Computer Science** at FUTO, graduating around January 2028
 
 ---
 
