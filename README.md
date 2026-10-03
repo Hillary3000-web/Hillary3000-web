@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hillary%20Chukwuma&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Backend%20Specialist&descAlignY=58&descSize=18&descColor=a8d8ea&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hillary%20Chukwuma&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Cloud%20Engineering%20in%20Progress&descAlignY=58&descSize=18&descColor=a8d8ea&animation=fadeIn" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer+%F0%9F%9A%80;Django+%7C+NestJS+%7C+React+%7C+PostgreSQL;Building+Real-Time+%26+AI-Powered+Web+Apps;ALX+Backend+Engineering+Graduate+%F0%9F%8E%93;Open+to+Remote+Junior+%26+Mid-Level+Roles)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer+%F0%9F%9A%80;Django+%7C+NestJS+%7C+React+%7C+PostgreSQL;Building+Real-Time+%26+AI-Powered+Web+Apps;ALX+Backend+Engineering+Graduate+%F0%9F%8E%93;Transitioning+into+Cloud+Engineering+%E2%98%81%EF%B8%8F)](https://git.io/typing-svg)
 
 <br/>
 
@@ -19,20 +19,24 @@
 
 ```python
 hillary = {
-    "role"        : "Full-Stack Engineer (Backend-Focused)",
+    "role"        : "Full-Stack Engineer (Backend-Focused) → Cloud Engineer",
     "location"    : "Port Harcourt, Nigeria 🇳🇬",
     "education"   : "B.Tech Computer Science — FUTO (300L)",
-    "stack"       : ["Django", "NestJS", "React", "PostgreSQL", "Redis", "Docker"],
-    "currently"   : ["Contracting at Nexusbotix (NestJS + Firestore)", "Q2 lock-in — LeetCode + building in public"],
+    "stack"       : ["Django", "NestJS", "React", "PostgreSQL", "Redis", "Docker", "AWS"],
+    "currently"   : [
+        "October lock-in — SAA-C03 prep + AWS portfolio projects",
+        "Contracting at Nexusbotix (NestJS + Firestore)",
+        "Building in public on Contra"
+    ],
     "passion"     : "Building systems that work reliably under pressure",
     "philosophy"  : "Curiosity fuels my code — I build to learn, and learn to build.",
-    "open_to"     : ["Remote Junior/Mid Roles", "Contract Work", "Open Source Collaboration"]
+    "open_to"     : ["Remote Backend/Cloud Roles", "Contract Work", "Open Source Collaboration"]
 }
 ```
 
 I'm a **full-stack engineer** with a backend focus — I design and ship complete web applications end-to-end, from database schema to production UI. Graduate of the **ALX Backend Engineering Program** and currently contracting at **Nexusbotix**, where I built the Channels module from scratch on a production NestJS + Firestore backend.
 
-I build with real-time systems, AI integrations, and async architectures — not just CRUD apps.
+I build with real-time systems, AI integrations, and async architectures — and I'm now going deep on **AWS and cloud infrastructure** as my next frontier.
 
 ---
 
@@ -57,6 +61,14 @@ I build with real-time systems, AI integrations, and async architectures — not
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_APIs-FF6B35?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**Cloud — AWS (In Progress ☁️)**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![API Gateway](https://img.shields.io/badge/API_Gateway-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
 
 **Tools & Platforms**
 
@@ -92,6 +104,31 @@ I build with real-time systems, AI integrations, and async architectures — not
     <td width="40%" align="center">
       <img src="https://img.shields.io/badge/Deployed-Render%20%2B%20Vercel-38BDF8?style=for-the-badge" /><br/><br/>
       <em>"Ship features that work in production, not just in dev."</em>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="60%">
+      <h3>☁️ Serverless URL Shortener — AWS Portfolio Project</h3>
+      <p>
+        A fully serverless URL shortener built on AWS to demonstrate cloud architecture skills. No servers to manage — just clean, scalable infrastructure.
+      </p>
+      <ul>
+        <li>⚡ AWS Lambda for compute — zero server management</li>
+        <li>🌐 API Gateway for HTTP routing and request handling</li>
+        <li>🗃️ DynamoDB for fast, scalable key-value storage</li>
+        <li>🔗 Custom short links with redirect logic</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Status-Live-22c55e?style=flat-square" />
+        <img src="https://img.shields.io/badge/Stack-Lambda%20%7C%20API%20Gateway%20%7C%20DynamoDB-FF9900?style=flat-square" />
+      </p>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://img.shields.io/badge/Cloud-AWS%20Serverless-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" /><br/><br/>
+      <em>"Real AWS. Real infrastructure. No shortcuts."</em>
     </td>
   </tr>
 </table>
@@ -159,11 +196,11 @@ I build with real-time systems, AI integrations, and async architectures — not
 
 ## 🎯 What I'm Working Toward
 
-- 📈 Q2 lock-in (Apr–Jun 2026) — daily LeetCode, Python deep dives, building in public
-- ☁️ Going deeper on **Docker, CI/CD, and cloud deployment**
-- 🤝 Making meaningful **open-source contributions**
-- 💼 Landing a **remote backend or full-stack role**
-- 🎓 Targeting a **UK MSc** via Chevening/Commonwealth scholarship
+- ☁️ **October lock-in** — SAA-C03 (AWS Solutions Architect Associate) certification + AWS portfolio projects
+- 📈 Daily LeetCode + consistent open-source contributions
+- 🌍 Building toward a **remote cloud engineering role** post-graduation
+- 🇲🇾 Long-term: relocate to **Malaysia (Penang / KL)** via the DE Rantau digital nomad visa
+- 🎓 **B.Tech Computer Science** — FUTO, graduating ~January 2028
 
 ---
 
